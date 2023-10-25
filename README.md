@@ -9,3 +9,4 @@ This is a starting point for anyone who wants to learn JavaScript from the groun
 | Topics  |
 | ------------- |
 | [A Brief History of JavaScript](https://github.com/ipekurunn/JavaScript_Workspace/blob/main/A%20Brief%20History%20of%20Javascript.md) |
+| [Section 1. Array Properties](https://github.com/ipekurunn/JavaScript_Workspace/blob/main/Section%201.%20Array%20properties.md) |
