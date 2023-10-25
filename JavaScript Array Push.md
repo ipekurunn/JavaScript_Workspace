@@ -1,7 +1,4 @@
 # Introduction to the JavaScript Array push() method
-The `Array.prototype.push()` method adds one or more elements to the end of an array and returns the length of the new array.
-
-This method is used with the following syntax:
 ```javascript
 push(newElement);
 push(newElement1, newElement2);
