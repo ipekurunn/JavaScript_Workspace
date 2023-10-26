@@ -6,15 +6,10 @@
 
 This is a starting point for anyone who wants to learn JavaScript from the ground up.
 
-| Topics  |
-| ------------- |
-| [A Brief History of JavaScript](https://github.com/ipekurunn/JavaScript_Workspace/blob/main/A%20Brief%20History%20of%20Javascript.md) |
-| [Section 1. Array Properties](https://github.com/ipekurunn/JavaScript_Workspace/blob/main/Section%201.%20Array%20properties.md) |
-
 <table style="float: left;">
     <tr>
         <td rowspan="2">Section 1. Introduction</td>
-        <td>[A Brief History of JavaScript](https://github.com/ipekurunn/JavaScript_Workspace/blob/main/A%20Brief%20History%20of%20Javascript.md)</td>
+        <td><a href="https://github.com/ipekurunn/JavaScript_Workspace/blob/main/A%20Brief%20History%20of%20Javascript.mdA">Brief History of JavaScript</a></td>
     </tr>
     <tr>
         <td>Array Properties</td>
