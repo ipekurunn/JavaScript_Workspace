@@ -1,5 +1,4 @@
 # Introduction to the JavaScript Array pop() method
-The `Array.prototype.pop()` method removes the *last element* from an array and returns the removed element. 
 ```javascript
 array.pop()
 ```
