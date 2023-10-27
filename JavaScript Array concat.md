@@ -1,4 +1,4 @@
-
+# Introduction to JavaScript concat() method
 The concat() method creates a new array by concatenating one or more arrays and does not modify the original arrays.
 ```javascript
 let odds = [1, 3, 5];
