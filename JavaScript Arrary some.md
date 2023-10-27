@@ -24,17 +24,3 @@ This code checks if at least one element in the numbers array is an even number.
 let numbers = [1, 2, 3, 4, 5];
 let hasEven = numbers.some(currentValue => currentValue % 2 === 0);
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
